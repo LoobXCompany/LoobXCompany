@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">We are a results-driven marketing agency empowering Brazilian construction professionals to scale their business in the U.S. market.</p>
+<p align="center">We are a results-driven marketing agency empowering Brazilian construction professionals to scale their business in the U.S. market 🇧🇷🇺🇸.</p>
 
 ###
 
