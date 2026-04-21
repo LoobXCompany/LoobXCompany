@@ -1,4 +1,4 @@
-<h1 align="center">LOOBOX COMPANY 🏢</h1>
+<h1 align="center">LOOBX COMPANY 🏢</h1>
 
 ###
 
