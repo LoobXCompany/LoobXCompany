@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">We are a results-driven marketing agency empowering Brazilian construction professionals to scale their business in the U.S. market 	\01f1e7\01f1f7.</p>
+<p align="center">We are a results-driven marketing agency empowering Brazilian construction professionals to scale their business in the U.S. market 	\u{1f1e7}\u{1f1f7}.</p>
 
 ###
 
